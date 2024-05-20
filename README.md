@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**arpancode07/arpancode07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Aspiring Web Developer | 💻 Coding Enthusiast | 🎨 Creative Problem Solver
 
-Here are some ideas to get you started:
+Hello! I'm Arpan Singh, an aspiring web developer passionate about creating interactive and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skill set and exploring new technologies to build innovative and efficient web solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+Languages: HTML, CSS, JavaScript
+Frameworks & Libraries: React, Node.js
+Tools: Git, GitHub, VS Code
+
+Projects:
+
+Simon Says Game: A memory game where players mimic sequences of button presses, increasing in difficulty with each level.
+Other Project 1: Brief description of another project.
+Other Project 2: Brief description of another project.
+
+
+Goals:
+
+To master full-stack development and build robust, scalable applications.
+To contribute to open-source projects and collaborate with other developers.
+To stay updated with the latest industry trends and technologies.
+Feel free to check out my repositories and connect with me!
+
