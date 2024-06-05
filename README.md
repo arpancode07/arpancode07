@@ -1,13 +1,16 @@
 
-🌐 Aspiring Web Developer | 💻 Coding Enthusiast | 🎨 Creative Problem Solver
+🌐 Aspiring Web Developer and  Data Analyst | 💻 Coding Enthusiast | 🎨 Creative Problem Solver
 
 Hello! I'm Arpan Singh, an aspiring web developer passionate about creating interactive and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skill set and exploring new technologies to build innovative and efficient web solutions.
 
-Skills:
+Skills for Web Developer: 
 
 Languages: HTML, CSS, JavaScript
 Frameworks & Libraries: React, Node.js
 Tools: Git, GitHub, VS Code
+
+Skills for Data Analyst:
+Excel, Power BI, Python, SQL
 
 Projects:
 
