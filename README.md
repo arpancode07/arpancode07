@@ -6,7 +6,6 @@ Hello! I'm Arpan Singh, an aspiring web developer passionate about creating inte
 Skills for Web Developer: 
 
 Languages: HTML, CSS, JavaScript
-Frameworks & Libraries: React, Node.js
 Tools: Git, GitHub, VS Code
 
 Skills for Data Analyst:
