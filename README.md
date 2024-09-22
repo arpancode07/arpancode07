@@ -1,27 +1,10 @@
 
-🌐 Aspiring Web Developer and  Data Analyst | 💻 Coding Enthusiast | 🎨 Creative Problem Solver
 
-Hello! I'm Arpan Singh, an aspiring web developer passionate about creating interactive and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I'm continuously expanding my skill set and exploring new technologies to build innovative and efficient web solutions.
+👋 Hi there! I'm Arpan Singh
+🌟 Aspiring Data Analyst | 📊 Data Enthusiast | 💻 Python & SQL Lover
 
-Skills for Web Developer: 
+🚀 I thrive on turning complex datasets into actionable insights! With hands-on experience in data analysis and visualization tools like Power BI, I'm passionate about helping organizations make data-driven decisions.
 
-Languages: HTML, CSS, JavaScript
-Tools: Git, GitHub, VS Code
+🔍 Currently pursuing a B.Tech degree, I'm continuously learning and exploring new techniques in data analytics. Check out my projects below to see how I blend creativity with analytics!
 
-Skills for Data Analyst:
-Excel, Power BI, Python, SQL
-
-Projects:
-
-Simon Says Game: A memory game where players mimic sequences of button presses, increasing in difficulty with each level.
-Other Project 1: Brief description of another project.
-Other Project 2: Brief description of another project.
-
-
-Goals:
-
-To master full-stack development and build robust, scalable applications.
-To contribute to open-source projects and collaborate with other developers.
-To stay updated with the latest industry trends and technologies.
-Feel free to check out my repositories and connect with me!
 
