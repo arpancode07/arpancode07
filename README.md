@@ -1,7 +1,7 @@
 
 
 👋 Hi there! I'm Arpan Singh
-🌟 Aspiring Data Analyst | 📊 Data Enthusiast | 💻 Python & SQL Lover
+🌟 Aspiring AI and Data Analyst | 📊 Data Enthusiast | 💻 Python & SQL Lover
 
 🚀 I thrive on turning complex datasets into actionable insights! With hands-on experience in data analysis and visualization tools like Power BI, I'm passionate about helping organizations make data-driven decisions.
 
